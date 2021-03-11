@@ -18,7 +18,15 @@ import lesson23.ClassStringBuilder;
 import lesson24.ClassObjectAndToString;
 import lesson25.Lesson25;
 import lesson26.Lesson26;
+import lesson27.Lesson27;
+import lesson28.Lesson28;
+import lesson29.Lesson29;
 import lesson3.Strings;
+import lesson30.Lesson30;
+import lesson31.Lesson31;
+import lesson32.Lesson32;
+import lesson33.Lesson33;
+import lesson34.Lesson34;
 import lesson4.WhileLoops;
 import lesson5.ForLoop;
 import lesson6.If;
@@ -108,20 +116,32 @@ public class HelloWorld {
 //        Lesson25 lesson25 = new Lesson25();
 //        lesson25.runLes();
 ////************************************************* lesson 26 ********************************************************
-        Lesson26 lesson26 = new Lesson26();
-        lesson26.runL26();
-
-
-
-
-
-
-
-
-
-
-
-
+//        Lesson26 lesson26 = new Lesson26();
+//        lesson26.runL26();
+////************************************************* lesson 27 ********************************************************
+//        Lesson27 lesson27 = new Lesson27();
+//        lesson27.runLes27();
+////************************************************* lesson 28 ********************************************************
+//        Lesson28 lesson28 = new Lesson28();
+//        lesson28.runLes28();
+////************************************************* lesson 29 ********************************************************
+//        Lesson29 lesson29 = new Lesson29();
+//        lesson29.runL29();
+////************************************************* lesson 30 ********************************************************
+//        Lesson30 lesson30 = new Lesson30(); //Приведение примитивных типов данных.
+//        lesson30.runL30();
+////************************************************* lesson 31 ********************************************************
+//        Lesson31 lesson31 = new Lesson31(); //Обертки примитивных типов данных
+//        lesson31.runL31();
+////************************************************* lesson 32 ********************************************************
+//        Lesson32 lesson32 = new Lesson32(); //Восходящее и нисходящее преобразование.
+//        lesson32.runL32();
+////************************************************* lesson 33 ********************************************************
+//        Lesson33 lesson33 = new Lesson33(); //Введение в параметризацию. (Generics)
+//        lesson33.runL33();
+////************************************************* lesson 34 ********************************************************
+          Lesson34 lesson34 = new Lesson34(); //Wildcards (Generics)
+          lesson34.runL34();
 
 
 
