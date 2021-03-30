@@ -3,6 +3,7 @@ package lesson10;
 import java.util.Scanner;
 
 public class SwitchClass {
+
     public void runSC () {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter you age: ");
@@ -23,6 +24,7 @@ public class SwitchClass {
             default:
                 System.out.println("Not found");
         }
+
 
     }
 }
